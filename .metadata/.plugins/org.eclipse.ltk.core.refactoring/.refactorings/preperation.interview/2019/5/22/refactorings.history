@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;preperation.interview&apos;&#x0A;- Original project: &apos;preperation.interview&apos;&#x0A;- Original element: &apos;preperation.interview/src/main/java/interviewpreperation.preperation.interview&apos;" description="Delete element" element1="/src\/main\/java&lt;interviewpreperation.preperation.interview" element2="/src\/main\/java&lt;interviewpreperation.preperation" element3="/src\/main\/java&lt;interviewpreperation" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1558867098479" subPackages="false" version="1.0"/>
+</session>

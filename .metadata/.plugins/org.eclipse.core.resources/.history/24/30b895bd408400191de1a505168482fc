@@ -1,0 +1,11 @@
+package com.amazon.prep;
+
+public class Node {
+	int val;
+	Node left, right;
+
+	Node(int x) {
+		val = x;
+		left = right = null;
+	}
+}

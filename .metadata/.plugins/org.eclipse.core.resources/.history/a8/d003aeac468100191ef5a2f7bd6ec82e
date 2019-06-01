@@ -1,0 +1,13 @@
+package sigmoid;
+
+public class TogglingKthBit {
+
+	public static void main(String[] args) {
+		int x = 5;
+		int k = 1;
+		int ans =  x ^  (1 << (k-1));
+		System.out.println(ans);
+
+	}
+
+}

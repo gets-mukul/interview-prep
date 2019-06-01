@@ -1,0 +1,20 @@
+package com.amazon.prep;
+
+public class SortedArrayToBst {
+	
+	public Node createBst(Node root) {
+		
+	}
+
+	public static void main(String[] args) {
+		
+		int[] arr = {1,2,3,4};
+		int start = 0;
+		int end = arr.length-1;
+		Node root = createBst(arr, start, end);
+		root.display(root);
+		
+
+	}
+
+}
